@@ -1,31 +1,31 @@
 🕘️更新时间,#genre#
-2026-08-13 19:08:49,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
+2026-08-15 18:32:26,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
-CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8$订阅源
-CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8$订阅源
-CCTV-1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8$订阅源
-CCTV-1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8$订阅源
-CCTV-1,http://113.26.202.52:1299/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-1,http://113.26.202.52:1299/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-1,http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8$订阅源
+CCTV-1,http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8$订阅源
+CCTV-1,http://120.237.39.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+CCTV-1,http://120.237.39.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+CCTV-1,http://36.136.11.230:11888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-1,http://36.136.11.230:11888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
+CCTV-2,http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-2,http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
+CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
 CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8$订阅源
-CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8$订阅源
-CCTV-2,http://113.26.202.52:1299/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2$订阅源
-CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2$订阅源
 CCTV-3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8$订阅源
 CCTV-3,http://204.12.221.218:8181/3m1080p/cctv3.m3u8$订阅源
-CCTV-3,http://113.26.202.52:1299/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-3,http://219.147.245.238:25480/newlive/live/hls/3/live.m3u8$订阅源
-CCTV-3,http://219.147.245.238:25480/newlive/live/hls/3/live.m3u8$订阅源
-CCTV-3,http://120.237.39.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
-CCTV-3,http://120.237.39.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+CCTV-3,http://119.39.9.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-3,http://119.39.9.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-3,http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-3,http://112.30.73.119:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-3,http://112.30.73.119:229/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=1efbca0be5bd36b4a23a71db15a0ce8a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -48,8 +48,8 @@ CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub$订阅源
 CCTV-5+,http://173.208.212.130:8181/720p/cctv5p.m3u8$订阅源
-CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
-CCTV-5+,http://113.26.202.52:1299/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-5+,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8$订阅源
+CCTV-5+,http://1.190.240.47:9003/hls/3018/index.m3u8$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=6679e65e7347bf23d1db5691a8f93888&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -97,7 +97,7 @@ CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f13
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=2fce646d8dbb72c508744df2e722b855&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd$订阅源
-CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8$订阅源
+CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=577823de18178c8e78f5dc92bfa605c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=2ffaa6964c764868df1ed3aa59a57a7d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=2f2d9ed82e6e7edae66f9af09f19cced&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
